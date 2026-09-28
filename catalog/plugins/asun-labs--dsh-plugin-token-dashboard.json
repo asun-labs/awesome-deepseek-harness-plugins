@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "asun-labs/dsh-plugin-token-dashboard",
+  "name": "dsh-plugin-token-dashboard",
+  "repository": "https://github.com/asun-labs/dsh-plugin-token-dashboard",
+  "category": "session",
+  "description": {
+    "en": "Generates a self-contained offline HTML dashboard from exact token usage in live and persisted DeepSeek Harness sessions.",
+    "zh": "读取 DeepSeek Harness 的实时与持久化会话用量，生成自包含的离线 Token 统计看板。"
+  },
+  "added": "2026-09-28"
+}
