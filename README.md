@@ -161,7 +161,7 @@ docs/               目录数据模型文档
 - [acp-app](https://github.com/whitelonng/dshcode/tree/HEAD/packages/bundle/acp-app) — 将 DeepSeek Harness 桌面伴侣打包为 macOS 和 Windows 的可安装 Electron 应用。
 - [adaptive-update](https://github.com/niushuanan/xiaozhuang-dsh/tree/HEAD/plugins/adaptive-update) — 自动更新客户端界面至最新版本，过程流畅自适应。
 - [adhdgofly-dsh-ext](https://github.com/zuoguyoupan2023/adhdgofly-dsh-ext) — 在渲染的Markdown中高亮词性：名词绿色、动词红色、形容词紫色、其他灰色。
-- [Agent Deck](https://github.com/asun-labs/dsh-plugin-agent-deck) — 在 DSH 会话中委派 Codex 子任务，显示实时任务卡片，并在原生右侧面板查看 CLI 输出与历史；可配置账号和模型，也保留支持页签和网格布局的 agent-switch 交互终端。
+- [Agent Deck](https://github.com/asun-labs/dsh-plugin-agent-deck) — 在右侧面板中通过 agent-switch 运行多个独立的编程 CLI 交互终端，并支持页签和网格布局。
 - [agent-preset-sections](https://github.com/jo32/DeepDeck/tree/HEAD/plugins/agent-preset-sections) — 为智能体界面添加预设分区，便于快速访问和整理。
 - [agent-store](https://github.com/fan969690/dsh-web-plugins/tree/HEAD/agent-store) — 提供模块化桌面宫格，摆放任意组件并接入插件与 Agent 社区。
 - [agent-teams-pixel](https://github.com/eternalnight996/agent-teams-pixel) — 为 DeepSeek Harness Web 主窗口新增「工作角色」页签与像素办公室浮层：内置 508 张完整角色卡（The Agency 255 + agency-agents-zh 253），支持按章节分部分类浏览、搜索与中英切换；Canvas 2D 像素小人具有站立 / 打字 / 踱步三态，浮层可拖动 / 折叠 / 缩放，选人即入列；闲聊台词可走内置 AI（复用 dsh 自配模型）或外部接口，控制在 20 字内中文。需 dsh ≥ 0.1.1-rc.x；自带 cordis bundle 补丁与浏览器客户端 row，挂载 slots 服务后才渲染 UI。
