@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "asun-labs/dsh-plugin-computer-user",
+  "name": "Computer User",
+  "repository": "https://github.com/asun-labs/dsh-plugin-computer-user",
+  "category": "tools",
+  "description": {
+    "en": "Adds computer-use tools with a live desktop snapshot in the right sidebar. Virtual pointer actions leave the real cursor untouched; real desktop control requires an explicit mode switch.",
+    "zh": "在右侧面板显示实时桌面快照并提供电脑操作工具。虚拟指针操作不占用真实光标；切换到实机模式后才会操作桌面。"
+  },
+  "added": "2026-10-13"
+}
