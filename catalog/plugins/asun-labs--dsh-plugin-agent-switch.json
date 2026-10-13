@@ -1,0 +1,12 @@
+{
+  "$schema": "../schema/plugin.schema.json",
+  "id": "asun-labs/dsh-plugin-agent-switch",
+  "name": "Agent Switch",
+  "repository": "https://github.com/asun-labs/dsh-plugin-agent-switch",
+  "category": "ui",
+  "description": {
+    "en": "Agent Switch shows Codex delegation cards in DSH conversations, with live and saved CLI output in the native right sidebar. Configure accounts and models, and run interactive agent-switch terminals in tab or grid layouts; sessions continue when switching sidebar tabs.",
+    "zh": "Agent Switch 在 DSH 会话中显示 Codex 委派任务卡片，并在原生右侧面板查看实时与历史 CLI 输出。支持账号和模型配置，以及页签或网格布局的 agent-switch 交互终端；切换侧边页签时终端继续运行。"
+  },
+  "added": "2026-09-29"
+}
